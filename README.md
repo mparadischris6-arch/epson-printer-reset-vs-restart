@@ -227,7 +227,7 @@
   <p>Use Epson's official support resources to find software and drivers appropriate for your model and operating system. Avoid downloading drivers from unverified websites.</p>
 
   <h3 style="font-size: 21px; color: #236456; margin: 26px 0 10px;">6. Consult the official manual</h3>
-  <p>Visit <a href="https://epson.com/Support" target="_blank" rel="noopener noreferrer" style="color: #087f68; text-decoration: underline;">Epson Support</a> and search using your model number. The product's manual should be your primary reference for reset menus, button combinations, warning lights, and troubleshooting procedures.</p>
+  <p>VisitEpson Support</a> and search using your model number. The product's manual should be your primary reference for reset menus, button combinations, warning lights, and troubleshooting procedures.</p>
 
   <p>If an error remains after these checks, record its exact wording before seeking assistance. Repeated resets without identifying the underlying issue may not help.</p>
 
